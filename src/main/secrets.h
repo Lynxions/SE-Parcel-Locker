@@ -13,7 +13,8 @@
 //#define WIFI_SSID "Lynxi"
 //#define WIFI_PASSWORD "Chissica"
 // MQTT Broker Settings
-#define MQTT_SERVER "cgp.captechvn.com"
+//#define MQTT_SERVER "cgp.captechvn.com"
+#define MQTT_SERVER "broker.hivemq.com"
 #define MQTT_PORT 1883 // Default MQTT port
 
 // MQTT Topics
